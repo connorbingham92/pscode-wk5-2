@@ -1,6 +1,24 @@
-A) 1,2,3,4,5\
-B) Add all numbers then divide by 5 for average\
-C) Minimum = smallest number. Maximum = largest number\
-D) 1+2+3+4+5=15\
-15/5=3 \
+Exercise 1: Calculate the Sum of Two Numbers
+
+x+y=sum
+
+// Exercise 2: Check if a Number is Even or Odd
+
+If sum is divisible by 2, it is even.
+If sum is not divisible by 2, it is odd.
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+A) 1,2,3,4,5
+B) Add all numbers then divide by 5 for average
+C) Minimum = smallest number. Maximum = largest number
+D) 1+2+3+4+5=15
+15/5=3 
 3=average
+-- END --
